@@ -10,7 +10,7 @@
 
 <div class="container mt-5">
         <ul>
-            <li>Üretken Akademi MEGA Yazılım Hafta4 için yapılmıştır.</li>
+            <li>Üretken Akademi MEGA Yazılım Hafta6 için yapılmıştır.</li>
             <li>İstediğiniz dönüşümleri yapmanız mümkündür. Companent ve state yapıları öğrenilmiştir.</li>
        </ul>
 
